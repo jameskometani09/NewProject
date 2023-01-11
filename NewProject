@@ -1,0 +1,12 @@
+# Author:           (James Kometani)
+# Lab:              (Lab 1)
+# Date:             (01/11/2023)
+# Description:      Run program for lab 1
+# Input:            (print)
+# Output:           (show hello world after entering program)
+# Sources:          no one helped me
+
+print ("Hello World!")
+
+#new computer science class and learning how math is connected with computer science classes
+#python programs
