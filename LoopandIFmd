@@ -1,0 +1,14 @@
+#this is loop
+#how to add if statement to this loop
+
+response = "no"
+user_response = "yes"
+while user_response != response:
+ response = input("Enter yes or no: ")
+print("End")
+
+test = "no"
+user_test = "yes"
+while user_test != test:
+ test = input("Enter yes or no: ")
+print("End")
